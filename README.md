@@ -40,31 +40,39 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/ned4XGaLN3.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](http://g.recordit.co/2WGYs7nsNZ.gif)
+![](http://g.recordit.co/jAcXHtJUs3.gif)
+![](http://g.recordit.co/m9u4da0RUM.gif)
+![](http://g.recordit.co/UW2bF3hPUk.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-https://cssreference.io/
-https://www.w3schools.com/css//css_font_websafe.asp
-Google's RGB color picker  
-https://www.the-art-of-web.com/javascript/creating-sounds/  
-https://www.w3schools.com/tags/tag_img.asp  
-https://www.w3schools.com/jsref/jsref_return.asp  
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random  
+cssreference.io/
+www.w3schools.com/css//css_font_websafe.asp
+coolors.co  
+www.the-art-of-web.com/javascript/creating-sounds/  
+www.w3schools.com/tags/tag_img.asp  
+www.w3schools.com/jsref/jsref_return.asp  
+developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random  
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)  
-[YOUR ANSWER HERE]
+In my code, I made a bonus button that automatically plays a short melody. Once I got it to work, I wanted to take it further and add chords (i.e. make multiple tones play at once) to give it more depth. 
+But this was where things got tricky. 
+First, I tried turning the pattern array into a multidimensional array, so that each spot held multiple notes at once, and ran every pattern[i][j] through a nested for loop version of the playClueSequence function. 
+However, I realized that this approach still played single tones one after another, not at the same time.
+Next, I tried creating extra pattern arrays for the other notes in the chords, and made functions attempting to play all 3 patterns at the same time to get a "chord".
+Unfortunately, this did not work either. From my understanding, 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
-[YOUR ANSWER HERE]
-
+If I had a bit more time with this project, I'd want to make a small piano keyboard out of the buttons. 
+Currently, my program functions somewhat like an 8-button miniature piano, so the next logical step would be to add more buttons to create a full keyboard, maybe with the note names as button text. 
+In this way, it could double as both a memory game and a fun way for people to learn how to play a keyboard. 
+Rather than having a random pattern of notes, I would create patterns that correspond to actual songs, which would let people learn . 
+If possible, I would try to streamline this process by looking up modules/packages that can transcribe a song and turn them into frequencies, since doing all of that manually would be quite tedious.
 
 
 ## Interview Recording URL Link
