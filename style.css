@@ -15,8 +15,10 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  background-color: rgb(186, 212, 193);
-  color: rgb(34, 54, 40);
+/*   background-color: rgb(186, 212, 193); */
+  background-color: #F5F1ED;
+/*   color: rgb(34, 54, 40); */
+  color: black;
 }
 
 h1 {
@@ -28,9 +30,12 @@ button {
   border-radius: 100px;
 }
 
+img {
+  width: 50px; 
+}
+
 #gameButtonArea > button {
-  width: 200px;
-  height: 200px;
+  width: 50px;
   margin: 2px;
   border-radius: 10px;
 }
@@ -40,31 +45,67 @@ button {
 }
 
 #button1 {
-  background: lightgreen;
+  background: pink;
+  height: 200px;
 }
 #button1:active, #button1.lit {
-  background: green;
+  background: #FFA2B1;
 }
 
 #button2 {
-  background: lightblue;
+  background: #fcd5ce;
+  height: 190px;
 }
 #button2:active, #button2.lit {
-  background: blue;
+  background: #fec5bb;
 }
 
 #button3 {
-  background: pink;
+  background: #f8edeb;
+  height: 180px;
 }
 #button3:active, #button3.lit {
-  background: red;
+  background: #fae1dd;
 }
 
 #button4 {
-  background: lightyellow;
+  background: #e8e8e4;
+  height: 170px;
 }
 #button4:active, #button4.lit {
-  background: yellow;
+  background: #d8e2dc;
+}
+
+#button5 {
+  background: #ece4db;
+  height: 160px;
+}
+#button5:active, #button5.lit {
+  background: #ffe5d9;
+}
+
+#button6 {
+  background: #ffe5d9;
+  height: 150px;
+}
+#button6:active, #button6.lit {
+  background: #ffd7ba;
+}
+
+#button7 {
+  background: #FFD7BA;
+  height: 140px;
+}
+#button7:active, #button7.lit {
+  background: #FEC89A;
+}
+
+#button8 {
+  background: #FEB97D;
+  height: 130px;
+}
+#button8:active, #button8.lit {
+  background: #FD9A43;
 }
 
 /* images and videos max out at full width */

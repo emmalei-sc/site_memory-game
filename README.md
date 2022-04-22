@@ -4,7 +4,7 @@
 
 Submitted by: Emma Leihe
 
-Time spent: 2-3 hours spent in total
+Time spent: 6 hours spent in total
 
 Link to project: https://site-memory-game.glitch.me/
 https://glitch.com/edit/#!/site-memory-game (code)
@@ -24,10 +24,10 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 * [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [X] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [X] More than 4 functional game buttons
+* [X] Playback speeds up on each turn
+* [X] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [X] A bonus button that plays a song with the given notes
 
 ## Video Walkthrough (GIF)
 
@@ -46,18 +46,23 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](gif4-link-here)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.  
-https://cssreference.io/  
-https://www.w3schools.com/css//css_font_websafe.asp  
-Google's RGB color picker
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+https://cssreference.io/
+https://www.w3schools.com/css//css_font_websafe.asp
+Google's RGB color picker  
+https://www.the-art-of-web.com/javascript/creating-sounds/  
+https://www.w3schools.com/tags/tag_img.asp  
+https://www.w3schools.com/jsref/jsref_return.asp  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random  
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)  
 [YOUR ANSWER HERE]
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
 [YOUR ANSWER HERE]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
 [YOUR ANSWER HERE]
 
 
