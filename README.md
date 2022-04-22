@@ -7,6 +7,7 @@ Submitted by: Emma Leihe
 Time spent: 2-3 hours spent in total
 
 Link to project: https://site-memory-game.glitch.me/
+https://glitch.com/edit/#!/site-memory-game (code)
 
 ## Required Functionality
 
@@ -39,7 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](http://g.recordit.co/ned4XGaLN3.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
