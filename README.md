@@ -46,10 +46,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](gif4-link-here)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-
-https://cssreference.io/ 
-https://www.w3schools.com/css//css_font_websafe.asp 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.  
+https://cssreference.io/  
+https://www.w3schools.com/css//css_font_websafe.asp  
 Google's RGB color picker
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
