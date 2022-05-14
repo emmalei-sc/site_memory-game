@@ -6,8 +6,7 @@ Submitted by: Emma Leihe
 
 Time spent: 6 hours spent in total
 
-Link to project: https://site-memory-game.glitch.me/
-
+Link to project: https://site-memory-game.glitch.me/ 
 https://glitch.com/edit/#!/site-memory-game (code)
 
 ## Required Functionality
@@ -49,8 +48,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-cssreference.io/
-www.w3schools.com/css//css_font_websafe.asp
+cssreference.io/ 
+www.w3schools.com/css//css_font_websafe.asp 
 coolors.co  
 www.the-art-of-web.com/javascript/creating-sounds/  
 www.w3schools.com/tags/tag_img.asp  
