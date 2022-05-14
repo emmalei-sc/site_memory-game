@@ -48,8 +48,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-cssreference.io/ 
-www.w3schools.com/css//css_font_websafe.asp 
+cssreference.io/  
+www.w3schools.com/css//css_font_websafe.asp  
 coolors.co  
 www.the-art-of-web.com/javascript/creating-sounds/  
 www.w3schools.com/tags/tag_img.asp  
@@ -65,7 +65,6 @@ Next, I tried creating extra pattern arrays for the other notes in the chords, a
 Unfortunately, this did not work either. From my understanding, 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
-[YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
 If I had a bit more time with this project, I'd want to make a small piano keyboard out of the buttons. 
