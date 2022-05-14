@@ -7,6 +7,7 @@ Submitted by: Emma Leihe
 Time spent: 6 hours spent in total
 
 Link to project: https://site-memory-game.glitch.me/
+
 https://glitch.com/edit/#!/site-memory-game (code)
 
 ## Required Functionality
