@@ -62,11 +62,8 @@ But this was where things got tricky.
 First, I tried turning the pattern array into a multidimensional array, so that each spot held multiple notes at once, and ran every pattern[i][j] through a nested for loop version of the playClueSequence function. 
 However, I realized that this approach still played single tones one after another, not at the same time.
 Next, I tried creating extra pattern arrays for the other notes in the chords, and made functions attempting to play all 3 patterns at the same time to get a "chord".
-Unfortunately, this did not work either. From my understanding, 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
+3. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
 If I had a bit more time with this project, I'd want to make a small piano keyboard out of the buttons. 
 Currently, my program functions somewhat like an 8-button miniature piano, so the next logical step would be to add more buttons to create a full keyboard, maybe with the note names as button text. 
 In this way, it could double as both a memory game and a fun way for people to learn how to play a keyboard. 
@@ -76,7 +73,7 @@ If possible, I would try to streamline this process by looking up modules/packag
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](removed-link)
 
 
 ## License
